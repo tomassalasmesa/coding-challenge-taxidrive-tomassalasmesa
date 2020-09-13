@@ -7,6 +7,69 @@
   pointer-events: none;
 }
 
+.LogoTD{
+  height: 100px;
+  margin-right: 50px;
+  border-radius: 20px;
+}
+
+.textRegister{
+  margin-right: 12px;
+}
+
+#ImgHome{
+  margin-left: 10%;
+  width: 80%;
+  align-content: center;
+}
+
+.card{
+  background-color: black;
+  color: white;
+  border-block-width: 3px;
+  border-color: white;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  width: auto; 
+  margin: auto auto;
+  margin-top: 10px;
+}
+
+.btnList{
+  justify-content: left;
+}
+
+#cont{
+  margin-left: 20px;
+  margin-right: 20px;
+  margin-top: 10px;
+}
+
+
+#btnregister{
+  margin-right: 100px;
+}
+
+#btnListaCond{
+  margin-left: 20px;
+}
+
+
+.btn-outline-dark{
+  border-radius: 100px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+nav{
+  background-color: rgb(230, 229, 229);
+  border-bottom-left-radius: 10px;
+  border-bottom-right-radius: 10px;
+}
+
+body{
+  background-color: black;
+}
+
+
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
     animation: App-logo-spin infinite 20s linear;
